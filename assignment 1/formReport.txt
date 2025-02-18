@@ -1,0 +1,37 @@
+### Report: User Registration Landing Page
+
+---
+
+This assignment creates a simple user registration page using HTML5. The page includes a form to collect a user's **Full Name**, **Email**, **Phone Number**, and **Password**.
+
+---
+
+**Page Structure:**
+- <Header>: Contains the page title and basic navigation links.
+- <Main>: The registration form where users fill in their details.
+- <Footer>: Displays a copyright message.
+
+---
+
+**Code Features:**
+-  <HTML5>: Uses `<header>`, `<nav>`, `<main>`, and `<footer>` for structure.
+- **Accessibility**: Labels are included for form fields to assist screen readers.
+- **Validation**: Basic HTML5 validation (e.g., email format and required fields).
+
+---
+
+**Testing:**
+- The form works well for collecting data, but it doesn’t actually submit anything yet (no server-side action).
+- The page is simple and functional but lacks CSS, making it visually basic.
+
+---
+
+**Improvements:**
+- Adding **CSS** would improve the design.
+- **Back-end** functionality is needed for submitting data.
+- **JavaScript** can enhance user experience with features like real-time validation.
+
+---
+
+**Conclusion:**
+This page is a simple, functional starting point for a user registration form. It’s ready for improvements, such as styling and back-end integration.

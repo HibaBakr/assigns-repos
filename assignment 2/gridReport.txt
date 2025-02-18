@@ -1,0 +1,35 @@
+### Report: Responsive Image Gallery and Flexbox Layout
+
+---
+
+#### **Purpose:**
+This project shows how to use **CSS Grid** and **Flexbox** to create a simple, responsive image gallery and a set of boxes that adjust based on the screen size.
+
+---
+
+#### **Page Structure:**
+
+1. **Image Gallery:**
+   - The gallery uses **CSS Grid** to display images that automatically adjust to fit the screen size. The number of images per row changes depending on how wide the screen is.
+
+2. **Flexbox Boxes:**
+   - Below the gallery, there are three boxes displayed using **Flexbox**. On larger screens, they appear in a row, and on smaller screens, they stack vertically for better readability.
+
+---
+
+#### **CSS Features:**
+
+- **Grid Layout**: The images are arranged in a flexible grid that changes based on screen width.
+- **Flexbox Layout**: The boxes are aligned in a row on larger screens and stack vertically on smaller ones using media queries.
+- **Responsiveness**: The page adapts to different screen sizes, ensuring it looks good on desktops, tablets, and phones.
+
+---
+
+#### **Testing:**
+- The gallery adjusts the images based on the screen size.
+- The boxes switch from horizontal to vertical on smaller devices for easier viewing.
+
+---
+
+#### **Conclusion:**
+This design uses **CSS Grid** and **Flexbox** to create a responsive layout that works well on any screen size. It’s simple, easy to use, and adjusts automatically to different devices.
